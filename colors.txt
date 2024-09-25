@@ -1,0 +1,16 @@
+Black
+White
+Gray
+Silver
+Maroon
+Red
+Purple
+Fuchsia
+Green
+Lime
+Olive
+Yellow
+Navy
+Blue
+Teal
+Aqua
